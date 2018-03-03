@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/home/Estudiantes/dojonode/Documents/petstore/conf/routes:22:1: value getMascotasSQL is not a member of controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mGET  /mascotasSQL  controllers.HomeController.getMascotasSQL[0m
+[0m[[0m[31merror[0m] [0m[0m/home/Estudiantes/dojonode/Documents/petstore/conf/routes:23:1: value insertarMascotaSQL is not a member of controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mPOST  /insertarSQL  controllers.HomeController.insertarMascotaSQL[0m
+[0m[[0m[31merror[0m] [0m[0m/home/Estudiantes/dojonode/Documents/petstore/conf/routes:24:1: value actualizarMascotaSQL is not a member of controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mPUT  /actualizarSQL  controllers.HomeController.actualizarMascotaSQL[0m
+[0m[[0m[31merror[0m] [0m[0m/home/Estudiantes/dojonode/Documents/petstore/conf/routes:25:1: value removerMascotaSQL is not a member of controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mDELETE  /eliminarSQL/:id  controllers.HomeController.removerMascotaSQL(id: Int)[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
